@@ -1,14 +1,6 @@
 
 <p align="center">I ❤️ solve big challenges using technology. <br><br> I'm <strong>passionate about discovering new things</strong> and using them to create high-quality solutions. Today I am a <strong>programmer focused on web development.</strong></p>&nbsp;
 
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=diegodevenancio&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-diegodevenancio.vercel.app/api/top-langs/?username=diegodevenancio&show_icons=true&theme=radical&layout=compact" />
- </div>
- 
- &nbsp;
- &nbsp;
-
 
 
 ## My Skills
@@ -35,6 +27,7 @@
 
 &nbsp;
 &nbsp;
+
 
 ## Contacts:
 
