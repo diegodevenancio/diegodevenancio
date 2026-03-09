@@ -67,16 +67,14 @@ I run the YouTube channel:
 
 📺 **Programando Depois dos 30**
 
-Where I share:
+Where I document my journey learning programming and building practical projects.
 
 - Programming projects
 - Python learning journey
 - Practical coding experiences
 
-
-🎥 I also share programming projects and my learning journey on YouTube:
-
-https://youtube.com/@programandodepoisdos30
+🎬 Watch the channel:  
+https://www.youtube.com/@ProgramandoDepoisDos30
 
 ---
 
