@@ -10,7 +10,7 @@ I am currently studying <strong>Python development</strong> and building practic
 
 I created the YouTube channel <strong>"Programando Depois dos 30"</strong>, where I share my journey learning programming, building projects and evolving step by step in the world of technology.<br><br>
 
-My goal is to continue improving as a developer while preparing for my <strong>first opportunity in tech.</strong>
+My goal is to continue improving my skills as a developer while preparing for my first opportunity in tech.
 </p>
 
 ---
