@@ -73,6 +73,11 @@ Where I share:
 - Python learning journey
 - Practical coding experiences
 
+
+🎥 I also share programming projects and my learning journey on YouTube:
+
+https://youtube.com/@programandodepoisdos30
+
 ---
 
 # 📫 Contacts
