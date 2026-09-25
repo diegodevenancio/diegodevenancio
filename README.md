@@ -1,10 +1,8 @@
 # 👨‍💻 Diego Venâncio
 
-**`Desenvolvedor em formação`**
+**`Desenvolvedor FullStack`**
 
-Olá! Eu sou Diego Venâncio.
-
-Sou estudante de **Desenvolvimento de Sistemas** e venho desenvolvendo projetos pessoais na área de tecnologia, buscando aprimorar continuamente meus conhecimentos em programação e desenvolvimento de aplicações.
+Me chamo Diego Venâncio, sou estudante de **Desenvolvimento de Sistemas** e venho realizando projetos pessoais na área de tecnologia, buscando aprimorar continuamente meus conhecimentos em programação e desenvolvimento de aplicações.
 
 Tenho experiência prática com **Python, JavaScript, HTML, CSS, APIs, bancos de dados e Git**, além do desenvolvimento de projetos completos, incluindo páginas de vendas, integração com sistemas de pagamento e envio automatizado de e-mails.
 
