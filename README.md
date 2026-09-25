@@ -2,14 +2,11 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Diego Venâncio, sou estudante de **Desenvolvimento de Sistemas** e venho realizando projetos pessoais na área de tecnologia, buscando aprimorar continuamente meus conhecimentos em programação e desenvolvimento de aplicações.
+Me chamo Diego Venâncio, sou estudante de **Desenvolvimento de Sistemas** e venho desenvolvendo projetos pessoais na área de tecnologia, buscando aprimorar continuamente meus conhecimentos em programação e desenvolvimento de aplicações.
 
-Tenho experiência prática com **Python, JavaScript, HTML, CSS, APIs, bancos de dados e Git**, além do desenvolvimento de projetos completos, incluindo páginas de vendas, integração com sistemas de pagamento e envio automatizado de e-mails.
+Tenho experiência prática com Python, JavaScript, HTML, CSS, APIs, bancos de dados e Git, além do desenvolvimento de projetos completos, incluindo páginas de vendas, integração com sistemas de pagamento e envio automatizado de e-mails.
 
 Atualmente, estou aprofundando meus conhecimentos em desenvolvimento de sistemas e construindo novos projetos para ampliar meu portfólio e minha experiência prática na área de tecnologia.
-
-Também compartilho minha jornada de aprendizado e desenvolvimento no canal do YouTube
-<a href="https://www.youtube.com/@ProgramandoDepoisDos30" target="_blank"><strong>Programando Depois dos 30</strong></a>.
 
 ---
 
@@ -91,22 +88,6 @@ Alguns dos projetos que desenvolvi durante minha trajetória de estudos:
 * Bancos de dados
 * Git e GitHub
 * Desenvolvimento de sistemas
-
----
-
-### 🎥 Programando Depois dos 30
-
-Compartilho minha jornada de aprendizado e desenvolvimento no YouTube:
-
-<p align="left">
-    <a href="https://www.youtube.com/@ProgramandoDepoisDos30" target="_blank">
-        <img 
-            alt="YouTube" 
-            title="Programando Depois dos 30" 
-            src="https://img.shields.io/badge/YouTube-Programando%20Depois%20dos%2030-red?style=for-the-badge&logo=youtube&logoColor=white"
-        />
-    </a>
-</p>
 
 ---
 
