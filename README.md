@@ -60,6 +60,9 @@ My goal is to continue improving my skills as a developer while preparing for ne
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
+<br>
+<br>
+
 ---
 
 # 📂 Featured Projects
