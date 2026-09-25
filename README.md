@@ -8,7 +8,8 @@ Tenho experiência prática com **Python, JavaScript, HTML, CSS, APIs, bancos de
 
 Atualmente, estou aprofundando meus conhecimentos em desenvolvimento de sistemas e construindo novos projetos para ampliar meu portfólio e minha experiência prática na área de tecnologia.
 
-Também compartilho minha jornada de aprendizado e desenvolvimento no canal do YouTube **[Programando Depois dos 30](https://www.youtube.com/@ProgramandoDepoisDos30)**.
+Também compartilho minha jornada de aprendizado e desenvolvimento no canal do YouTube
+<a href="https://www.youtube.com/@ProgramandoDepoisDos30" target="_blank"><strong>Programando Depois dos 30</strong></a>.
 
 ---
 
@@ -98,7 +99,7 @@ Alguns dos projetos que desenvolvi durante minha trajetória de estudos:
 Compartilho minha jornada de aprendizado e desenvolvimento no YouTube:
 
 <p align="left">
-    <a href="https://www.youtube.com/@ProgramandoDepoisDos30">
+    <a href="https://www.youtube.com/@ProgramandoDepoisDos30" target="_blank">
         <img 
             alt="YouTube" 
             title="Programando Depois dos 30" 
@@ -112,18 +113,19 @@ Compartilho minha jornada de aprendizado e desenvolvimento no YouTube:
 ### 📫 Contato
 
 <p align="left">
-    <a href="mailto:contato.diegodevenancio@gmail.com">
+    <a href="mailto:contato.diegodevenancio@gmail.com" target="_blank">
         <img 
             alt="Gmail" 
             title="E-mail" 
             src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
         />
     </a>
-    <a href="https://www.linkedin.com/in/diegodeven%C3%A2ncio/">
+    <a href="https://www.linkedin.com/in/diegodeven%C3%A2ncio/" target="_blank">
         <img 
             alt="LinkedIn" 
             title="LinkedIn" 
             src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+            
         />
     </a>
 </p>
