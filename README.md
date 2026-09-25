@@ -82,9 +82,9 @@ Alguns dos projetos que desenvolvi durante minha trajetória de estudos:
 
 ---
 
-### 📚 Atualmente
+### 📚 Atualmente 
 
-🎓 **Técnico em Desenvolvimento de Sistemas**
+🎓 **Desenvolvimento de Sistemas**
 
 💻 Aprofundando conhecimentos em:
 
