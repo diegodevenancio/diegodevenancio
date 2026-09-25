@@ -8,7 +8,7 @@ Tenho experiência prática com **Python, JavaScript, HTML, CSS, APIs, bancos de
 
 Atualmente, estou aprofundando meus conhecimentos em desenvolvimento de sistemas e construindo novos projetos para ampliar meu portfólio e minha experiência prática na área de tecnologia.
 
-Também compartilho parte da minha jornada de aprendizado e desenvolvimento no canal do YouTube **[Programando Depois dos 30](https://www.youtube.com/@ProgramandoDepoisDos30)**.
+Também compartilho minha jornada de aprendizado e desenvolvimento no canal do YouTube **[Programando Depois dos 30](https://www.youtube.com/@ProgramandoDepoisDos30)**.
 
 ---
 
@@ -81,12 +81,7 @@ Alguns dos projetos que desenvolvi durante minha trajetória de estudos:
 * ☁️ **Projetos com Cloud Computing** — estudos e implementações relacionados a serviços em nuvem.
 
 ---
-
-### 📚 Atualmente 
-
-🎓 **Desenvolvimento de Sistemas**
-
-💻 Aprofundando conhecimentos em:
+### 💻 Aprofundando conhecimentos em:
 
 * Python
 * JavaScript
