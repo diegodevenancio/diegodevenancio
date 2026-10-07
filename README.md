@@ -97,8 +97,8 @@ Alguns dos projetos que desenvolvi durante minha trajetória de estudos:
 
 ### 📚 Formação em andamento
 
-* Técnico em Desenvolvimento de Sistemas — IF Sudeste MG
 * Tecnólogo em Análise e Desenvolvimento de Sistemas — IFTO
+* Técnico em Desenvolvimento de Sistemas — IF Sudeste MG
 
 ---
 
