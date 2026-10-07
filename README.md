@@ -83,6 +83,26 @@ Alguns dos projetos que desenvolvi durante minha trajetória de estudos:
 * ☁️ **Projetos com Cloud Computing** — estudos e implementações relacionados a serviços em nuvem.
 
 ---
+
+### 🚀 Projetos em destaque
+
+#### 🛒 Sistema Web de Vendas
+
+Aplicação web desenvolvida como projeto prático, com frontend e backend integrados.
+
+Principais funcionalidades e tecnologias:
+
+* Desenvolvimento de aplicação web
+* Integração de pagamentos com Stripe
+* Autenticação utilizando Google
+* Integração entre frontend e backend
+* Deploy utilizando Vercel
+* Envio automatizado de e-mails
+
+🔗 **[Ver projeto no GitHub](https://github.com/ProgramandoDepoisDos30/landing-page-vendas)**
+
+---
+
 ### 💻 Aprofundando conhecimentos em:
 
 * Python
