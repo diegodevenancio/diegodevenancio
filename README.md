@@ -1,12 +1,16 @@
 # 👨‍💻 Diego Venâncio
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvimento de Sistemas | Python | JavaScript | Desenvolvimento Web`**
 
-Me chamo Diego Venâncio, sou estudante de **Desenvolvimento de Sistemas** e venho desenvolvendo projetos pessoais na área de tecnologia, buscando aprimorar continuamente meus conhecimentos em programação e desenvolvimento de aplicações.
+Me chamo Diego Venâncio, sou estudante de **Desenvolvimento de Sistemas** e estou construindo minha transição de carreira para a área de tecnologia, com foco em desenvolvimento de software, automação e soluções utilizando tecnologia.
 
-Tenho experiência prática com Python, JavaScript, HTML, CSS, APIs, bancos de dados e Git, além do desenvolvimento de projetos completos, incluindo páginas de vendas, integração com sistemas de pagamento e envio automatizado de e-mails.
+Atualmente curso **Tecnólogo em Análise e Desenvolvimento de Sistemas** pelo IFTO e o curso **Técnico em Desenvolvimento de Sistemas** pelo IF Sudeste MG.
 
-Atualmente, estou aprofundando meus conhecimentos em desenvolvimento de sistemas e construindo novos projetos para ampliar meu portfólio e minha experiência prática na área de tecnologia.
+Tenho experiência prática em projetos próprios e acadêmicos utilizando **Python, JavaScript, HTML, CSS, SQL, Git e GitHub**, além de desenvolvimento de aplicações web e integração de serviços.
+
+Entre os projetos que desenvolvi, estão uma **aplicação web de vendas com frontend e backend integrados**, integração de pagamentos com **Stripe**, autenticação com **Google** e deploy utilizando **Vercel**, além de aplicações em **Python**, como sistemas CRUD e sistema bancário em console.
+
+Também utilizo o GitHub para organizar minha formação e registrar projetos, exercícios e atividades desenvolvidos durante meus estudos.
 
 ---
 
